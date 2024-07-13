@@ -1,6 +1,6 @@
 {
     "name": "openloco",
-    "version-string": "22.02",
+    "version-string": "24.06",
     "dependencies": [
         "benchmark",
         "breakpad",
@@ -8,5 +8,6 @@
         "libpng",
         "openal-soft",
         "sdl2"
-    ]
+    ],
+    "builtin-baseline": "7f9f0e44db287e8e67c0e888141bfa200ab45121"
 }
